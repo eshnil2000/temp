@@ -1,0 +1,7 @@
+.sass-cache/
+*.css.map
+static/css/app.css
+public
+node_modules
+tmp
+bin
