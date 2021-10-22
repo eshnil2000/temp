@@ -3,8 +3,8 @@
 - *** npm run build && hugo
 - *** cd public
 - *** live-server
-###install
+### install
 - https://recordit.co/LLN3nxpPlB
-###sample
+### sample
 - https://recordit.co/e4cDi1Ca53
 
